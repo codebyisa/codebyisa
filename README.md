@@ -26,7 +26,7 @@
   </a>
 </p>
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 - 💻 Desenvolvedora Front-End com foco em React e JavaScript
 - 🎨 Apaixonada por UX/UI e interfaces intuitivas
@@ -35,7 +35,7 @@
 - 🌎 Barueri • SP
 
 
-  ## 🚀 Tecnologias
+  ## Tecnologias
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma,vscode,wordpress" />
