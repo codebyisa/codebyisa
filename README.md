@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**codebyisa/codebyisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Isadora Duca.
 
-Here are some ideas to get you started:
+Desenvolvedora Front-End apaixonada por criar experiências digitais modernas, acessíveis e intuitivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente trabalho com:
+
+• React
+• JavaScript
+• WordPress
+• UX/UI
+• HTML
+• CSS
+
+Atualmente estudando:
+
+• Full Stack
+• TypeScript
+• Node.js
