@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 
-  <a href="https://linkedin.com/in/SEU-LINK">
+  <a href="[https://linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/isadora-duca-65b8a117a/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
